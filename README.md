@@ -19,7 +19,8 @@ Time series modeling and diagnostics of fuel price trends in South Africa using 
 Modeling and plots were done in **R** using packages: `forecast`, `tseries`, `ggplot2`, and `readxl`.
 
 ## 🎓 Academic Context
-This report was submitted as part of my undergraduate module **Stochastic Processes (Statistics 3B)** at the **University of Johannesburg**.  
+This report was submitted as part of my undergraduate module **Stochastic Processes (Statistics 3B)** at the **University of Johannesburg**.
+**Student Name:** MO Seepamore
 **Student Number:** 220036766
 
 ---
